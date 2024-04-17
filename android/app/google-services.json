@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "238860240989",
+    "project_id": "lead-management-system-b991c",
+    "storage_bucket": "lead-management-system-b991c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238860240989:android:f94eb366aff0d2a85ee5b4",
+        "android_client_info": {
+          "package_name": "com.lms.lms.lms_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238860240989-geloho8genr9gqh9f0rbj8catqoh5540.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQV9iURDqyMOsPPUQSrtYeoqfdXZQsa6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238860240989-geloho8genr9gqh9f0rbj8catqoh5540.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
